@@ -295,10 +295,16 @@ body {
 /* End Trải Nghiệm Section */
 /* Trademark Section */
 .full-trademark {
-    background-image: url('./images/56152931.jpg');
-    background-position: center top;
     margin-top: 15px;
+    position: relative;
 }
+
+.trademark__bg-img {
+    background-position: center top;
+    position: absolute;
+    z-index: -1;
+}
+
 
 .inner-trademark {
     padding-left: 100px;
@@ -730,13 +736,18 @@ body {
 
 /* ƯU ĐÃI section */
 .full-uu-dai {
-    background-image: url('./images/backfgoru-20200804023223.png');
     margin-top: 90px;
     width: 100%;
     box-sizing: border-box;
     height: 648px;
+    position: relative;
+}
+
+.uu-dai__bg-img {
     background-position: center top;
     background-size: cover;
+    position: absolute;
+    z-index: -1;
 }
 
 .inner-uu-dai {
@@ -1021,8 +1032,14 @@ body {
 
 /* Footer Section */
 .full-footer {
-    background-image: url('./images/ggg-20200804030856-20200813022449.jpg');
     padding-bottom: 30px;
+    position: relative;
+}
+
+.footer__bg-img {
+    background-position: center top;
+    position: absolute;
+    z-index: -1;
 }
 
 .full-footer .inner-footer {
