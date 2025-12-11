@@ -300,11 +300,13 @@ body {
 /* End Trải Nghiệm Section */
 /* Trademark Section */
 .full-trademark {
+    width: 100%;
     margin-top: 15px;
     position: relative;
 }
 
 .trademark__bg-img {
+    width: 100%;
     background-position: center top;
     position: absolute;
     z-index: -1;
@@ -749,6 +751,7 @@ body {
 }
 
 .uu-dai__bg-img {
+    width: 100%;
     background-position: center top;
     background-size: cover;
     position: absolute;
@@ -1042,6 +1045,7 @@ body {
 }
 
 .footer__bg-img {
+    width: 100%;
     background-position: center top;
     position: absolute;
     z-index: -1;
