@@ -2,6 +2,7 @@ html {
     overflow-x: hidden;
     overflow-y: auto;
 }
+
 body {
     font-family: Roboto, sans-serif;
     margin: 0;
@@ -1046,6 +1047,7 @@ body {
 
 .footer__bg-img {
     width: 100%;
+    height: 100%;
     background-position: center top;
     position: absolute;
     z-index: -1;
