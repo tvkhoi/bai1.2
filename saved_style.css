@@ -34,6 +34,7 @@ body {
     padding: 22px 82px;
     text-decoration: none;
     border: none;
+    cursor: pointer;
 }
 
 /* Header Section */
@@ -821,7 +822,7 @@ body {
     width: 200px;
     height: 100px;
     margin-left: -57px;
-    background-image: url(./images/tag-20200713090150.png);
+    background-image: url(https://client.keyweb.vn/ldp_data/image_base/uploads/1ed24c6fea65ca6be05b8a207312152e/img_693b7e518de731.72419093.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -880,7 +881,7 @@ body {
 
 .uu-dai__left .uu-dai__left__list li::before {
     content: '';
-    background-image: url('./images/download.png');
+    background-image: url(https://client.keyweb.vn/ldp_data/image_base/uploads/1ed24c6fea65ca6be05b8a207312152e/img_693b7e9331ee12.71385407.png);
     width: 15px;
     height: 15px;
     color: #ffffff;
@@ -1120,15 +1121,15 @@ body {
 }
 
 .footer-left__thuong-hieu .footer-left__thuong-hieu__item--1 {
-    background-image: url('./images/visa-20200311062250-202003120407261.svg');
+    background-image: url(https://client.keyweb.vn/ldp_data/image_base/uploads/1ed24c6fea65ca6be05b8a207312152e/img_693b7f241b72f1.64744122.png);
 }
 
 .footer-left__thuong-hieu .footer-left__thuong-hieu__item--2 {
-    background-image: url('./images/mastercard.svg');
+    background-image: url(https://client.keyweb.vn/ldp_data/image_base/uploads/1ed24c6fea65ca6be05b8a207312152e/img_693b7fe274b261.27666651.png);
 }
 
 .footer-left__thuong-hieu .footer-left__thuong-hieu__item--3 {
-    background-image: url('./images/bo-cong-thuong.svg');
+    background-image: url(https://client.keyweb.vn/ldp_data/image_base/uploads/1ed24c6fea65ca6be05b8a207312152e/img_693b7ffbdd0b44.29400960.webp);
 }
 
 .full-footer .footer-right {
