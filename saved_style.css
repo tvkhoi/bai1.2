@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    font-family: Roboto, sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -805,7 +805,7 @@ body {
     box-sizing: border-box;
     -webkit-text-fill-color: unset;
     border-radius: 0px;
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
     text-align: left;
     color: rgb(237, 74, 110);
     filter: drop-shadow(rgb(0, 0, 0) 1px 1px 1px);
@@ -924,7 +924,7 @@ body {
     box-sizing: border-box;
     -webkit-text-fill-color: unset;
     border-radius: 0px;
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
     text-align: center;
     color: rgb(255, 255, 255);
     margin: 0;
